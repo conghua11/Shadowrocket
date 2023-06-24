@@ -1,3 +1,8 @@
+
+
+#!url=https://raw.githubusercontent.com/conghua11/surge/main/mgtv.sgmodule
+#!name=芒果TVj解锁VIP
+
 [URL Rewrite]
 
 &src\=mgtv&suuid\=.*&testversion\=&ticket\=[A-Z0-9]{32} &src=mgtv&testversion=&ticket=44C417517F6B34B9AA7903C0A5650483 302
